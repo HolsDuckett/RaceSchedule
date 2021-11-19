@@ -1,6 +1,8 @@
 # running-world
 
-> running blog
+Vue.js Web Application
+running blog
+
 
 ## Build Setup
 
